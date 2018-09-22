@@ -5,6 +5,7 @@ body {
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
+                                /*To Right side , the starting colour, ending colour*/
 	background: linear-gradient(to right, red , yellow); /* Standard syntax */
 }
 
